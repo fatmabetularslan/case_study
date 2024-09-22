@@ -34,9 +34,8 @@ Veri Ön İşleme:
 
 Eksik verilerin doldurulması.
 Kategorik verilerin kodlanması.
-Normalizasyon veya standardizasyonun uygulanması.
 Bölge sınıflandırması yapıldı ve bu veriler One-Hot Encoding ile işleme sokuldu.
-Kurulum ve Kullanım:
-Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
+
+
 
 
