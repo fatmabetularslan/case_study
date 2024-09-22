@@ -1,7 +1,38 @@
-{"Antidepressants": ["amitriptyline", "fluoxetine", "escitalopram", "paroxetine", "duloxetine", "vortioxetine", "sertraline", "citalopram", "bupropion", "desipramine", "trimipramine", "nortriptyline", "clomipramine", "imipramine", "venlafaxine", "nefazodone"],
- "Antipsychotics": ["olanzapine", "risperidone", "aripiprazole", "quetiapine", "ziprasidone", "clozapine", "haloperidol", "chlorpromazine", "paliperidone", "iloperidone", "asenapine", "brexpiprazole", "pimozide", "loxapine"], 
- "Anticonvulsants": ["lamotrigine", "divalproex", "valproic acid", "carbamazepine", "pregabalin"],
- "Anxiolytics": ["lorazepam", "alprazolam", "clonazepam", "diazepam", "chlordiazepoxide"],
-  "Corticosteroids": ["mometasone", "betamethasone", "fluocinolone", "triamcinolone", "desonide", "halobetasol", "prednicarbate"],
-  "Other Psych Medications": ["methylphenidate", "zolpidem", "zaleplon", "phenelzine", "tranylcypromine", "isocarboxazid", "secobarbital", "butisol", "oxymorphone", "prazosin"], 
-  "Pain Relievers and Sedatives": ["oxymorphone", "butisol sodium", "secobarbital", "pethidine hcl", "midazolam"]}
+{
+    "Antidepressants": [
+        "amitriptyline", "fluoxetine", "venlafaxine", "mirtazapine", "duloxetine",
+        "sertraline", "escitalopram", "citalopram", "vortioxetine", "nortriptyline",
+        "imipramine", "trimipramine", "desipramine", "bupropion", "paroxetine",
+        "nefazodone", "tranylcypromine", "phenelzine", "isocarboxazid"
+    ],
+    "Antipsychotics": [
+        "olanzapine", "risperidone", "aripiprazole", "quetiapine", "ziprasidone", 
+        "haloperidol", "chlorpromazine", "paliperidone", "iloperidone", "asenapine", 
+        "loxapine", "pimozide", "brexpiprazole", "fluphenazine", "trifluoperazine", 
+        "thiothixene"
+    ],
+    "Anxiolytics": [
+        "alprazolam", "lorazepam", "clonazepam", "diazepam", "chlordiazepoxide"
+    ],
+    "Mood Stabilizers/Anticonvulsants": [
+        "lamotrigine", "divalproex", "valproic acid", "carbamazepine", "pregabalin"
+    ],
+    "Stimulants": [
+        "methylphenidate", "methylphenidate er", "methylphenidate tablet,chewable",
+        "methylphenidate er tablet", "methylphenidate hcl tablet", "methylphenidate suspension"
+    ],
+    "Sedatives/Hypnotics": [
+        "zolpidem", "zaleplon", "midazolam", "secobarbital", "butisol sodium"
+    ],
+    "Corticosteroids": [
+        "mometasone", "betamethasone", "fluocinolone", "triamcinolone", "desonide",
+        "halobetasol", "prednicarbate", "hydrocortisone"
+    ],
+    "Pain Relievers": [
+        "oxymorphone", "pethidine hcl", "butisol sodium"
+    ],
+    "Other": [
+        "warfarin sodium", "dipyridamole", "selegiline", "hydrocortisone cream",
+        "clindamycin phosphate - benzoyl peroxide"
+    ]
+}
