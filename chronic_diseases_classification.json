@@ -1,0 +1,9 @@
+{"heart_diseases": ["kalp hastaliklari", "hipertansiyon"], 
+"diabetes": ["diyabet"],
+ "respiratory_diseases": ["koah", "astim"],
+  "cancer": ["kanser"], 
+  "alzheimer": ["alzheimer"], 
+  "bone_diseases": ["kemik erimesi"], 
+  "blood_diseases": ["kan hastaliklari"], 
+  "thyroid_diseases": ["guatr"], 
+  "other": ["diger"]}
